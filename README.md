@@ -5,3 +5,5 @@
 2. Single scan pulse calibration via stroboscopic nutation experiment P.S.C. Wu and G. Otting, J. Magn. Reson. 176, 115-119 (2005)
 
   [pulse calibration](https://www.ethz.ch/content/dam/ethz/special-interest/biol/mol-biol/bnsp-dam/NMRSeminar2018HS/Pulse%20Calibration_SECOND.pdf)
+
+3.  Optimal control theory enables homonuclear decoupling without Bloch–Siegert shifts in NMR spectroscopy Paul W. Coote, Scott A. Robson, Abhinav Dubey, Andras Boeszoermenyi, Mengxia Zhao, Gerhard Wagner & Haribabu Arthanari 
