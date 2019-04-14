@@ -7,3 +7,7 @@
   [pulse calibration](https://www.ethz.ch/content/dam/ethz/special-interest/biol/mol-biol/bnsp-dam/NMRSeminar2018HS/Pulse%20Calibration_SECOND.pdf)
 
 3.  Optimal control theory enables homonuclear decoupling without Bloch–Siegert shifts in NMR spectroscopy Paul W. Coote, Scott A. Robson, Abhinav Dubey, Andras Boeszoermenyi, Mengxia Zhao, Gerhard Wagner & Haribabu Arthanari 
+
+4. Application of Fourier Transform Spectroscopy to Magnetic Resonance R. R. Ernst and W. A. Anderson, Review of Scientific Instruments 37, 93 (1966); https://doi.org/10.1063/1.1719961
+
+Measurement and Control of Magnetic Field Homogeneity Richard R. Ernst, Review of Scientific Instruments 39, 998 (1968); https://doi.org/10.1063/1.1683586
