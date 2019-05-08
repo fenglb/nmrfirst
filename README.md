@@ -17,3 +17,5 @@ Measurement and Control of Magnetic Field Homogeneity Richard R. Ernst, Review o
   W. P. Aue, J. Karhan, R. R. Ernst, J. Chem. Phys. 1976, 64, 4226–4227.
   A. J. Shaka, J. Keeler, R. Freeman, J. Magn. Reson. 1984, 56, 294–313.
   G. A. Morris, in Encyclopedia of Magnetic Resonance, Vol. 9, 2nd ed. (Eds.: R. K.  Harris, R. Wasylishen), John Wiley & Sons, Ltd, Chichester, 2009, 5205. 
+
+6. Purge NMR: Effective and easy solvent suppression Andre J. Simpson, Sarah A. Brown, Journal of Magnetix Resonance, 175 (2015), 340-346
