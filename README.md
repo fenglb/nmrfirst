@@ -19,3 +19,5 @@ Measurement and Control of Magnetic Field Homogeneity Richard R. Ernst, Review o
   G. A. Morris, in Encyclopedia of Magnetic Resonance, Vol. 9, 2nd ed. (Eds.: R. K.  Harris, R. Wasylishen), John Wiley & Sons, Ltd, Chichester, 2009, 5205. 
 
 6. Purge NMR: Effective and easy solvent suppression Andre J. Simpson, Sarah A. Brown, Journal of Magnetix Resonance, 175 (2015), 340-346
+
+7. DQD: Lee kyung-young Xie Haibin Digital orthogonal detection in nuclear magnetic resonance spectroscopy Scientific Instrument Review, 70(2) , 1511 somethingdoi：10.1063 / 1.1149615
